@@ -1,4 +1,4 @@
-# Não consigo fazer meu primeiro push com o Git Bash
+# Não consigo fazer meu primeiro push com o Git Bash :computer:
 
 Olá Devs, meu nome é Iris Correa e estou criando este repositório para demonstrar uma alternativa, caso não esteja conseguindo dar um push no seu código, pela primeira vez com o Git bash.
 
